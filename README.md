@@ -56,7 +56,8 @@ A documentação do projeto está organizada no repositório GitHub, com as segu
 
 - **README.md**: Explicação geral do projeto, funcionalidades e instruções para execução.
 - **Estrutura de Diretórios**: Códigos de IA, scripts de análise e exemplos de uso.
-- **Instruções de Execução**: Passo a passo para rodar o sistema e configurar as integrações com os dados do Google.
+- **Link do Vídeo**: Demonstração do protótipo funcional até o momento
+
 
 [Link para o repositório GitHub](#)
 
