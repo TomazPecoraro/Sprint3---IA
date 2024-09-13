@@ -1,19 +1,3 @@
-# Sprint3-IA
-
-Rennan Ferreira da Cruz - RM99364
-
-
-Jaisy Cibele Alves - RM552269
-
-
-Luiz Felipe Camargo Prendin - RM552475
-
-
-Tomaz de Oliveira Pecoraro - RM98499
-
-
-Gabriel Amâncio Pereira - RM97936
-
 # AdOptimize: Disruptive Architectures - IoT, IoB & Generative AI
 
 ## Visão Geral do Projeto
@@ -30,23 +14,28 @@ As campanhas de marketing digital geram grandes volumes de dados que, sem análi
 
 ## Funcionalidades do Protótipo
 
-### 1. Visão Geral
-A página de **Visão Geral** oferece uma visão completa do desempenho das campanhas, exibindo métricas como CPC, CTR, ROI e conversões, com gráficos de tendências.
+*ADOPTIMIZE*
 
-### 2. Gerenciamento de Campanhas
-**Gerenciamento de Campanhas** permite criar, editar e monitorar campanhas em andamento. A IA gera recomendações para otimização de desempenho.
+1. **Visão Geral (Home)**:
+   - **Motivo:** Esta página deve ser o ponto de entrada, oferecendo uma visão geral do desempenho e das atividades recentes. É onde o usuário pode rapidamente entender o estado atual das campanhas e acessar funcionalidades importantes.
 
-### 3. Análise de Segmentação
-**Análise de Segmentação** oferece insights sobre o público-alvo, com sugestões para otimização baseadas no comportamento dos usuários.
+2. **Campanhas**:
+   - **Motivo:** Logo após a visão geral, o usuário deve ter acesso direto aos detalhes das campanhas. Esta é a seção mais utilizada e, por isso, deve estar em destaque logo após a página inicial.
 
-### 4. Alocação de Orçamento
-A página de **Alocação de Orçamento** permite ajustar a distribuição de recursos entre campanhas, com projeções da IA sobre o impacto de cada decisão.
+3. **Segmentação, Público Alvo e Mercado**:
+   - **Motivo:** Após as campanhas, a análise de segmentação é essencial para entender o desempenho em diferentes públicos e ajustar as campanhas com base nesses insights.
 
-### 5. Relatórios Customizáveis
-Ferramenta para gerar **Relatórios Customizáveis** em formatos como PDF e Excel, com filtros para personalizar os dados exibidos.
+4. **Palavras-Chave**:
+   - **Motivo:** Uma vez que a segmentação e o público são compreendidos, o próximo passo lógico é otimizar as palavras-chave, que são fundamentais para o desempenho das campanhas.
 
-### 6. Notificações e Alertas
-**Notificações e Alertas** automáticos para mudanças significativas no desempenho das campanhas, como variações de CTR ou aumento no custo por conversão.
+5. **Previsão de Desempenho**:
+   - **Motivo:** Com base nas palavras-chave e no público-alvo, o usuário pode querer prever como ajustes futuros podem impactar o desempenho, tornando esta seção uma continuidade natural.
+
+6. **Relatórios**:
+   - **Motivo:** Após ajustar campanhas e segmentação, os relatórios permitem ao usuário analisar resultados detalhados, fechar o ciclo de monitoramento e planejamento.
+
+7. **Notificações e Alertas**:
+   - **Motivo:** Por último, mas não menos importante, esta seção deve estar acessível para que o usuário possa verificar ou configurar alertas, garantindo que sempre esteja informado sobre eventos críticos.
 
 ---
 
@@ -72,6 +61,24 @@ A documentação do projeto está organizada no repositório GitHub, com as segu
 [Link para o repositório GitHub](#)
 
 ---
+
+## Equipe
+
+Rennan Ferreira da Cruz - RM99364
+
+
+Jaisy Cibele Alves - RM552269
+
+
+Luiz Felipe Camargo Prendin - RM552475
+
+
+Tomaz de Oliveira Pecoraro - RM98499
+
+
+Gabriel Amâncio Pereira - RM97936
+
+
 
 ## Conclusão
 
