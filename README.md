@@ -59,7 +59,7 @@ A documentação do projeto está organizada no repositório GitHub, com as segu
 - **Link do Vídeo**: Demonstração do protótipo funcional até o momento
 
 
-[Link para o repositório GitHub](#)
+https://github.com/TomazPecoraro/Sprint3-IA
 
 ---
 
